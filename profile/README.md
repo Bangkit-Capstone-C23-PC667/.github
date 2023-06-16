@@ -36,7 +36,7 @@ Quisiin is built using the following technologies and frameworks:
 
 Quisiin is developed by the talented members of the Bangkit 2023 Product-Based Capstone Project. Here are our team members:
 
-- Product Manager: Muhammad Rafly Alfayed ([GitHub](https://github.com/johndoe))
+- Product Manager: Muhammad Rafly Alfayed 
 - Backend Developer: Muhammad Rafly Alfayed, Faruq Putra R., Yoni Tribber
 - Frontend Developer: Abdyunior Januar S.
 - Machine Learning Developer : Sephia Yustika W., Yoni Tribber, Rahmatul Fajri
