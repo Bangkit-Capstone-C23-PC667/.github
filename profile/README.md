@@ -1,6 +1,6 @@
 # Quisiin - Marketplace Kuesioner App
 
-![Quisiin Logo]((https://storage.googleapis.com/bangkit-capstone-c23-pc667-user-bucket/other/QUISIIN_C23-PC667.gslides.png)
+![Quisiin Logo](https://storage.googleapis.com/bangkit-capstone-c23-pc667-user-bucket/other/QUISIIN_C23-PC667.gslides.png)
 
 Welcome to Quisiin, an app-based marketplace for creating and sharing questionnaires. This project is developed as part of the Bangkit 2023 Product-Based Capstone Project.
 
